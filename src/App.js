@@ -4,7 +4,7 @@ import { items } from "./inputProps";
 function App() {
   return (
     <div>
-      <ProgressBar items={items} width={500} height={50} />
+      <ProgressBar items={items} width={800} height={50} />
     </div>
   );
 }
