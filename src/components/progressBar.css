@@ -1,0 +1,20 @@
+.inline {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    transition: 1s;
+}
+
+.in-colomn {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.legend {
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
